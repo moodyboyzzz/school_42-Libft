@@ -12,13 +12,13 @@ https://cdn.intra.42.fr/pdf/pdf/40194/en.subject.pdf
 To compile the library, run:
 
 ```shell
-$ cd path/to/libft && make
+$ cd "path/to/libft" && make
 ```
 
 or this if you want compile with bonuses
 
 ```shell
-$ cd path/to/libft && make
+$ cd "path/to/libft" && make
 ```
 
 To use the library functions in your code, simply include its header:
