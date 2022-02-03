@@ -4,7 +4,7 @@
 
 Create library (and not only) functions.
 
-## In details
+## In details about projects
 
 https://cdn.intra.42.fr/pdf/pdf/40194/en.subject.pdf
 
