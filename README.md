@@ -1,7 +1,8 @@
 # Libft
 
+## The aim of this project
 
-The purpose of this project is to create library (and not only) functions.
+Create library (and not only) functions.
 
 ## More about what needed to be done and the features
 
